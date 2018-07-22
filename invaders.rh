@@ -1,0 +1,39 @@
+// Dialog Items
+#define IDC_SCORE			110
+#define IDC_NAME			109
+#define IDC_SCORES		108
+#define IDC_NAMES			107
+#define IDC_CONFIGJOY	106
+#define IDC_MUSIC			105
+#define IDC_CHGRES		104
+#define IDC_JOYSTICK2	103
+#define IDC_JOYSTICK1	102
+#define IDC_OK				101
+
+// Bitmaps
+#define IDB_SPACEINV	101
+
+// Dialogs
+#define IDD_ABOUT			1
+#define IDD_STARTUP		2
+#define IDD_SETTINGS		3
+#define IDD_SCORES		4
+#define IDD_NEWHIGH		5
+
+// Menu Items
+#define CM_ABOUT			9
+#define CM_SETTINGS		8
+#define CM_LEPRESOFT		7
+#define CM_CREATOR		6
+#define CM_STORY			5
+#define CM_HIGHSCORES	4
+#define CM_PAUSE			3
+#define CM_NEW				2
+#define CM_EXIT			1
+// Icons
+#define IDI_ICON1	1
+// Menu
+#define IDM_MENU1	1
+
+
+
